@@ -2,15 +2,34 @@
 
 Welcome to my Flutter Apps from Scratch tutorial series. In this video, we will build the task management app UI and you will learn how to build this beautiful flutter app from the scratch.
 
-## Getting Started
+**Packages we are using:**
 
-This project is a starting point for a Flutter application.
+- cupertino_icons: [link](https://pub.dev/packages/cupertino_icons)
+- newsapi: [link](https://pub.dev/packages/newsapi)
+- hexcolor: [link](https://pub.dev/packages/hexcolor)
+- eva_icons_flutter: [link](https://pub.dev/packages/eva_icons_flutter)
+- carousel_slider: [link](https://pub.dev/packages/carousel_slider)
+- timeago: [link](https://pub.dev/packages/timeago)
+- rxdart: [link](https://pub.dev/packages/rxdart)
+- flutter_html: [link](https://pub.dev/packages/flutter_html)
+- url_launcher: [link](https://pub.dev/packages/url_launcher)
 
-A few resources to get you started if this is your first Flutter project:
+**Screens it contains:**
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+=> Home Screen
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+=> Task Details Screen
+
+=> Add Task Screen
+
+=> About Us Screen
+
+Now it contains all the screen, thanks for your love and support 🙏 
+
+## Photos
+![Preview](/Ui1.png)
+![Preview](Ui2.png)
+![Preview](Ui3.png)
+![Preview](Ui4.png)
+![Preview](Ui5.png)
+![Preview](Ui6.png)
