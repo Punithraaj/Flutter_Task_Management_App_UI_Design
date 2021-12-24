@@ -4,15 +4,13 @@ Welcome to my Flutter Apps from Scratch tutorial series. In this video, we will 
 
 **Packages we are using:**
 
-- cupertino_icons: [link](https://pub.dev/packages/cupertino_icons)
-- newsapi: [link](https://pub.dev/packages/newsapi)
+- dotted_border: [link](https://pub.dev/packages/dotted_border)
+- persistent_bottom_nav_bar: [link](https://pub.dev/packages/persistent_bottom_nav_bar)
 - hexcolor: [link](https://pub.dev/packages/hexcolor)
-- eva_icons_flutter: [link](https://pub.dev/packages/eva_icons_flutter)
-- carousel_slider: [link](https://pub.dev/packages/carousel_slider)
-- timeago: [link](https://pub.dev/packages/timeago)
-- rxdart: [link](https://pub.dev/packages/rxdart)
-- flutter_html: [link](https://pub.dev/packages/flutter_html)
-- url_launcher: [link](https://pub.dev/packages/url_launcher)
+- intl: [link](https://pub.dev/packages/intl)
+- horizontal_center_date_picker: [link](https://pub.dev/packages/horizontal_center_date_picker)
+- date_picker_timeline: [link](https://pub.dev/packages/date_picker_timeline)
+- timeline_tile: [link](https://pub.dev/packages/timeline_tile)
 
 **Screens it contains:**
 
@@ -30,6 +28,3 @@ Now it contains all the screen, thanks for your love and support 🙏
 ![Preview](/Ui1.png)
 ![Preview](Ui2.png)
 ![Preview](Ui3.png)
-![Preview](Ui4.png)
-![Preview](Ui5.png)
-![Preview](Ui6.png)
