@@ -1,4 +1,4 @@
-# flutter_task_management_ui
+# Flutter Task Management App UI Design
 
 Welcome to my Flutter Apps from Scratch tutorial series. In this video, we will build the task management app UI and you will learn how to build this beautiful flutter app from the scratch.
 
